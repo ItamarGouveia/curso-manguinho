@@ -1,0 +1,23 @@
+{
+  "name": "curso-manguinho",
+  "version": "1.0.0",
+  "description": "NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItamarGouveia/curso-manguinho.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItamarGouveia/curso-manguinho/issues"
+  },
+  "homepage": "https://github.com/ItamarGouveia/curso-manguinho#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.3"
+  }
+}
